@@ -12,6 +12,8 @@ Familiar Languages:
 [![PHP](https://img.shields.io/static/v1?label=&message=PHP&color=777BB4&logo=PHP&logoColor=FFFFFF)](https://www.php.net/)
 
 Tech Stacks:
+[![Angular](https://img.shields.io/static/v1?label=&message=Angular&color=FF0000&logo=Angular&logoColor=FFFFFF)](https://reactjs.org/)
+[![React](https://img.shields.io/static/v1?label=&message=React&color=61DAFB&logo=React&logoColor=FFFFFF)](https://reactjs.org/)
 [![Vue](https://img.shields.io/static/v1?label=&message=Vue&color=4FC08D&logo=vue.js&logoColor=FFFFFF)](https://vuejs.org/)
 [![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF)](https://nodejs.org/en/)
 [![Laravel](https://img.shields.io/static/v1?label=&message=Laravel&color=FF2D20&logo=Laravel&logoColor=FFFFFF)](https://laravel.com/)
@@ -30,10 +32,6 @@ Software:
 [![Microsoft Office](https://img.shields.io/static/v1?label=&message=Microsoft+Office&color=D83B01&logo=Microsoft+Office&logoColor=FFFFFF)](https://www.office.com/) 
 [![Tableau](https://img.shields.io/static/v1?label=&message=Tableau&color=E97627&logo=tableau&logoColor=FFFFFF)](https://www.tableau.com/)
 [![VSCode](https://img.shields.io/static/v1?label=&message=VSCode&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF)](https://code.visualstudio.com/)
-
-Additionally, I am current learning: 
-[![React](https://img.shields.io/static/v1?label=&message=React&color=61DAFB&logo=React&logoColor=FFFFFF)](https://reactjs.org/)
-[![Flutter](https://img.shields.io/static/v1?label=&message=Flutter&color=02569B&logo=Flutter&logoColor=FFFFFF)](https://flutter.dev/)
 
 
 # 💡 My Projects
