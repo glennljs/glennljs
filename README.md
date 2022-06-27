@@ -1,6 +1,6 @@
 # Welcome to Glenn's Github 👋🏼
 
-I'm Glenn and I am currently a year 3 Business Analytics student at the National University of Singapore.
+I'm Glenn and I am a Backend Software Engineer at Sprinklr.
 
 # 🧑🏼‍💻 Experience
 
