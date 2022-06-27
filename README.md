@@ -66,4 +66,4 @@ Software:
 
 # Contact Information
 
-You can reach me at: glennljs@u.nus.edu or connect with me on <a href="https://www.linkedin.com/in/glenn-lee-682418202/">Linkedin</a>.
+You can reach me at: glennljs@gmail.com or connect with me on <a href="https://www.linkedin.com/in/glenn-lee-682418202/">Linkedin</a>.
